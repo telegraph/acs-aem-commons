@@ -38,7 +38,7 @@
     <properties>
         <crx.host>localhost</crx.host>
         <crx.port>4502</crx.port>
-        <crx.contextRoot />
+        <crx.contextRoot/>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <license.licenseName>apache_v2</license.licenseName>
@@ -292,7 +292,7 @@
             <dependency>
                 <groupId>org.slf4j</groupId>
                 <artifactId>slf4j-api</artifactId>
-                <version>1.6.4</version>
+                <version>1.7.30</version>
                 <scope>provided</scope>
             </dependency>
             <dependency>
